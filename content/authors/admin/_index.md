@@ -13,13 +13,13 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: "business@shabani.ca"
-first_name: Alice
+first_name: Hadi
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
+last_name: Shabani
 organizations:
 - name: Shabani.Ca
   url: https://shabani.ca/
@@ -49,7 +49,7 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Hadi Shabani
 ---
 
 Hadi is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. {style="text-align: justify;"}
